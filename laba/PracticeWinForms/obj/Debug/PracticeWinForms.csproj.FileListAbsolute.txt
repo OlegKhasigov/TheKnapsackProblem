@@ -1,0 +1,10 @@
+C:\Users\Khasi\source\repos\PracticeWinForms\PracticeWinForms\bin\Debug\PracticeWinForms.exe.config
+C:\Users\Khasi\source\repos\PracticeWinForms\PracticeWinForms\bin\Debug\PracticeWinForms.exe
+C:\Users\Khasi\source\repos\PracticeWinForms\PracticeWinForms\bin\Debug\PracticeWinForms.pdb
+C:\Users\Khasi\source\repos\PracticeWinForms\PracticeWinForms\obj\Debug\PracticeWinForms.csproj.AssemblyReference.cache
+C:\Users\Khasi\source\repos\PracticeWinForms\PracticeWinForms\obj\Debug\PracticeWinForms.Form1.resources
+C:\Users\Khasi\source\repos\PracticeWinForms\PracticeWinForms\obj\Debug\PracticeWinForms.Properties.Resources.resources
+C:\Users\Khasi\source\repos\PracticeWinForms\PracticeWinForms\obj\Debug\PracticeWinForms.csproj.GenerateResource.cache
+C:\Users\Khasi\source\repos\PracticeWinForms\PracticeWinForms\obj\Debug\PracticeWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Khasi\source\repos\PracticeWinForms\PracticeWinForms\obj\Debug\PracticeWinForms.exe
+C:\Users\Khasi\source\repos\PracticeWinForms\PracticeWinForms\obj\Debug\PracticeWinForms.pdb
